@@ -13,6 +13,7 @@
     <Folder Include="Models\Negocio\" />
     <Folder Include="Models\Enums\" />
     <Folder Include="Models\ViewModels\" />
+    <Folder Include="Data\" />
   </ItemGroup>
 
 </Project>
